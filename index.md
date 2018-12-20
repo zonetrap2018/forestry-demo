@@ -17,8 +17,8 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Data and stuff
-textline: |
-  Belkirk College of Engineering
+textline: |-
+  TOMIS College of Engineering
 
   Ora et Labora
 hero_button:
