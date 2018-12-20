@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2018/12/20/tomis-og-image.jpg"
+banner_image: "/uploads/2018/12/20/tomis-og-image-1.jpg"
 layout: landing-page
 heading: Hi TOMIS
 partners:
