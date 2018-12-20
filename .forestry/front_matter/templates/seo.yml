@@ -1,0 +1,10 @@
+---
+label: seo
+hide_body: false
+is_partial: false
+fields:
+- type: include
+  name: seo
+  label: seo
+  description: title
+  template: default
